@@ -61,6 +61,7 @@ def page(name):
   <nav aria-label="Footer"><a href="/install.html">Install</a><a href="/about.html">About</a><a href="{REPO}">GitHub</a></nav>
   <div class="end">2026. Provided as is, with no warranty.</div>
 </footer>
+<script src="/js/bg.js" data-mode="drone" defer></script>
 </body>
 </html>
 """
