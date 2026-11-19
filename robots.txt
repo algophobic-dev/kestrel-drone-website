@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drone.kestrelaviation.tech/sitemap.xml
