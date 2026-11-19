@@ -44,6 +44,7 @@ def page(name):
 <meta property="og:image" content="{BASE}/img/laanc.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/img/icon.svg" type="image/svg+xml">
+<link rel="icon" href="/img/favicon.png" type="image/png" sizes="64x64">
 <link rel="apple-touch-icon" href="/img/icon-180.png">
 <link rel="stylesheet" href="/css/site.css">
 </head>
